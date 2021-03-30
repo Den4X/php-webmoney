@@ -38,6 +38,7 @@ class Request extends X\Request
     const PURSE_WMB = 'WMB';
     const PURSE_WMY = 'WMY';
     const PURSE_WMG = 'WMG';
+    // NEW
     const PURSE_WMP = 'WMP';
 
     const EMONEY_RBKM = 'rbkmoney.ru';
